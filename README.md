@@ -39,7 +39,7 @@ Plug "hyhugh/vim-easyescape-plus"
 
 ## Usage
 
-### Configuration 1: map of `kj` (recommended since i use this one)
+### Configuration 1: map `kj` to escape (recommended since i use this one)
 
 The unit of timeout is in ms.  A very small timeout makes an input of real `kj` possible (Python3 is required for this feature)!
 ```
