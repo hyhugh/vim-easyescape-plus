@@ -10,7 +10,7 @@ _____                  _____
 ```
 Make Escape Great Again!
 
-Special thanks to (Yichao Zhou) the aurther of original vim-easyescape.
+Special thanks to (Yichao Zhou) the author of original vim-easyescape.
 
 As you can see from the project name, this project is actually based on vim-easyescape and i modified the plugin a lot according to my personal preferences. Since I modified a lot, I release this as a seperate plugin.
 
