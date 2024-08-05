@@ -88,7 +88,7 @@ function! s:EasyescapeInsertCharPre()
 endfunction
 
 function! s:EasyescapeInsertLeave()
-    if b:edited == 0
+    if exists('b:edited') && b:edited == 0
         call setbufvar(bufnr("%"), "&mod", 0)
     endif
 endfunction
